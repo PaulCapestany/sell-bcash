@@ -10,9 +10,7 @@ This guide assumes you had Bitcoins in possesion prior the hard fork, and you kn
 
 ***why?***
 
-When you redeem your BCash, you'll possibly expose your seed or your private key. To make sure your Bitcoins don't get lost or stolen, it is extremely recommended to move them to a new Bitcoin wallet. 
-
-Redeeming BCash requires you to install a BCash wallet, which we can't trust completely yet, and can't know for sure it will not leak your address or expose it somehow, mistakenly or intentionally. By moving your Bitcoins to a new address, you're removing that risk. Simply put, you're going to empty both Bitcoin and BCash from the old address - Bitcoin first.
+To make sure your Bitcoins don't get lost or stolen, you will need to move them to a new wallet. To cash out your BCash you're going to have to install a BCash wallet, which we can't trust completely yet, and possibly expose your private keys. By moving your Bitcoins to a new address, you're removing that risk. Simply put, you're going to empty both Bitcoin and BCash from the old address - Bitcoin first.
 
 ***how?***
 
@@ -52,7 +50,7 @@ There's no magic that transforms BCash into Bitcoin. You'll need to sell it in a
 The following exchange sites are said to support BCash deposits.
 
 * [HitBTC](https://hitbtc.com/) is accepting BCash deposits, without any customer verification process, and allow you to exchange it only after 2 confirmations.
-* [ViaBTC](https://www.viabtc.com/) is accepting BCash deposits, and you can exchange it after 1 confirmation. But you need to wait for 20 confirmations to withdrawal the received Bitcoins. Name, mobile number and ID card number are requiered for verification.
+* [ViaBTC](https://www.viabtc.com/) is accepting BCash deposits, and you can exchange it after 1 confirmation. But you need to wait for 20 confirmations to withdrawal the received Bitcoins. Name, mobile number and ID card number are required for verification (note: US citizens are not allowed to withdraw).
 
 >***Warning: we don't know if any of these exchange sites will actually let you withdraw your Bitcoins, it's on your own risk. I will update once we have proven reports***
 
